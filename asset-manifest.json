@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/raston-graph/static/css/main.bf5601d1.css",
+    "main.js": "/raston-graph/static/js/main.bb55afaf.js",
+    "index.html": "/raston-graph/index.html",
+    "main.bf5601d1.css.map": "/raston-graph/static/css/main.bf5601d1.css.map",
+    "main.bb55afaf.js.map": "/raston-graph/static/js/main.bb55afaf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf5601d1.css",
+    "static/js/main.bb55afaf.js"
+  ]
+}
